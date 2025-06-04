@@ -12,7 +12,7 @@ export const metaData = {
 export const socialLinks = {
   twitter: "https://x.com/ptztdev",
   github: "https://github.com/ptzt",
-  linkedin: "https://www.linkedin.com/tomasmillandev/",
+  linkedin: "https://www.linkedin.com/in/tomasmillandev/",
   email: "mailto:ignaciotomasrodriguezmillan@gmail.com",
   leetcode: "https://leetcode.com/u/ptzt/"
 };
